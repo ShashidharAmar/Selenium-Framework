@@ -1,0 +1,28 @@
+       //Login Page
+       ------------
+username=//input[@id='username']
+password=//input[@placeholder='Password']
+Login_button=//div[normalize-space()='Login']
+
+
+        // Test1
+        --------
+Time-track=//div[@id='container_tasks']
+tasks-report=//div[@id='container_reports']
+users=//div[@id='container_users']
+
+
+        //Users
+        -------
+users=//div[@id='container_users']
+PTO-Settings=//div[contains(text(),'PTO Settings')]
+Sick-day-setting=//div[@class='tabText'][normalize-space()='Sick Days Settings']
+Work-Assignment=//div[@class='tabText'][normalize-space()='Work Assignments']   
+        
+
+
+
+
+
+
+
